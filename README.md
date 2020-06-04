@@ -9,6 +9,8 @@
 
 Uma aplicação Web para explicar o que é o openbanking.
 
+Link: https://rsornellas.github.io/thatsopenbanking/
+
 ## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
