@@ -7,7 +7,7 @@
 
 ## :bookmark: Sobre
 
-O <strong>Ecoleta</strong> é uma aplicação Web para explicar o que é o openbanking.
+Uma aplicação Web para explicar o que é o openbanking.
 
 ## :rocket: Tecnologias Utilizadas
 
